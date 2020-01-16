@@ -14,7 +14,7 @@ module.exports = {
         { _id: { $nin: loggedUser.dislikes } }
       ]
     });
-    
+
     return res.json(users);
   },
 
@@ -41,10 +41,11 @@ module.exports = {
 
 
 
-      console.log(promise2.data);
       const { leaguePoints } = promise2.data;
 
-      if (leaguePoints > 0) {
+      console.log(leaguePoints);
+
+      if (leaguePoints != 0) {
         const { summonerLevel } = promise1.data;
         const { rank, tier, wins, losses, summonerName } = promise2.data[0];
         const loldev = await Loldev.create({
