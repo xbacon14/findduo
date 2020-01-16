@@ -53,6 +53,7 @@ module.exports = {
           summonerLevel,
           summonerId,
           rank,
+          leaguePoints,
           tier,
           wins,
           losses

@@ -22,6 +22,9 @@ const LolSchema = new Schema(
     losses: {
       type: Number
     },
+    leaguePoints: {
+      type: Number
+    },
 
     summonerLevel: String,
 
