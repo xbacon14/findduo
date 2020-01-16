@@ -23,7 +23,7 @@ module.exports = {
 
     // encontrar un usuario para ver si hay repetido
     const userExists = await Loldev.findOne({ user: username });
-    const apikey = "RGAPI-5d01f297-e406-4231-9bd1-f1fafb3c7ccd";
+    const apikey = "RGAPI-581ae6b1-6b0d-46d0-9101-4a20c20eeab4";
 
     if (userExists) {
       return res.json(userExists);
