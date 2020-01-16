@@ -70,6 +70,9 @@ export default function ({ match }) {
                 <p>
                   Derrotas: {user.losses}
                 </p>
+                <p>
+                  League Points: {user.leaguePoints}
+                </p>
 
               </footer>
               <div className="buttons">
