@@ -65,6 +65,7 @@ module.exports = {
           user: name,
           summonerLevel,
           summonerId,
+          leaguePoints: 0,
           rank: "NA",
           tier: "NA",
           wins: 0,
