@@ -45,7 +45,7 @@ module.exports = {
 
       console.log(leaguePoints);
 
-      if (leaguePoints != 0) {
+      if (leaguePoints != undefined) {
         const { summonerLevel } = promise1.data;
         const { rank, tier, wins, losses, summonerName } = promise2.data[0];
         const loldev = await Loldev.create({
