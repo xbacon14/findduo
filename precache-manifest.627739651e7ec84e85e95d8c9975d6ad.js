@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a66ae4430dc1ed393489b9d5713a37bc",
+    "revision": "10a10b11b6200c1d62641d90ab5e6c8d",
     "url": "/findduo/index.html"
   },
   {
-    "revision": "7653880728396a10fc2a",
+    "revision": "c45cf78f4bd53353e8e2",
     "url": "/findduo/static/css/main.fddd73bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/findduo/static/js/2.1076647d.chunk.js.LICENSE"
   },
   {
-    "revision": "7653880728396a10fc2a",
-    "url": "/findduo/static/js/main.cb7c70a0.chunk.js"
+    "revision": "c45cf78f4bd53353e8e2",
+    "url": "/findduo/static/js/main.cad13496.chunk.js"
   },
   {
     "revision": "9bacd96345a8af2fa962",

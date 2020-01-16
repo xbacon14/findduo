@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/findduo/static/css/main.fddd73bc.chunk.css",
-    "main.js": "/findduo/static/js/main.cb7c70a0.chunk.js",
-    "main.js.map": "/findduo/static/js/main.cb7c70a0.chunk.js.map",
+    "main.js": "/findduo/static/js/main.cad13496.chunk.js",
+    "main.js.map": "/findduo/static/js/main.cad13496.chunk.js.map",
     "runtime-main.js": "/findduo/static/js/runtime-main.d4f84d0e.js",
     "runtime-main.js.map": "/findduo/static/js/runtime-main.d4f84d0e.js.map",
     "static/js/2.1076647d.chunk.js": "/findduo/static/js/2.1076647d.chunk.js",
     "static/js/2.1076647d.chunk.js.map": "/findduo/static/js/2.1076647d.chunk.js.map",
     "index.html": "/findduo/index.html",
-    "precache-manifest.bc1f33433e439d8453aa7f5dcb9ca8e4.js": "/findduo/precache-manifest.bc1f33433e439d8453aa7f5dcb9ca8e4.js",
+    "precache-manifest.627739651e7ec84e85e95d8c9975d6ad.js": "/findduo/precache-manifest.627739651e7ec84e85e95d8c9975d6ad.js",
     "service-worker.js": "/findduo/service-worker.js",
     "static/css/main.fddd73bc.chunk.css.map": "/findduo/static/css/main.fddd73bc.chunk.css.map",
     "static/js/2.1076647d.chunk.js.LICENSE": "/findduo/static/js/2.1076647d.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.d4f84d0e.js",
     "static/js/2.1076647d.chunk.js",
     "static/css/main.fddd73bc.chunk.css",
-    "static/js/main.cb7c70a0.chunk.js"
+    "static/js/main.cad13496.chunk.js"
   ]
 }

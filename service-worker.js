@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/findduo/precache-manifest.bc1f33433e439d8453aa7f5dcb9ca8e4.js"
+  "/findduo/precache-manifest.627739651e7ec84e85e95d8c9975d6ad.js"
 );
 
 self.addEventListener('message', (event) => {
