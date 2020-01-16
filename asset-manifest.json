@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/findduo/static/css/main.fddd73bc.chunk.css",
+    "main.js": "/findduo/static/js/main.cb7c70a0.chunk.js",
+    "main.js.map": "/findduo/static/js/main.cb7c70a0.chunk.js.map",
+    "runtime-main.js": "/findduo/static/js/runtime-main.d4f84d0e.js",
+    "runtime-main.js.map": "/findduo/static/js/runtime-main.d4f84d0e.js.map",
+    "static/js/2.1076647d.chunk.js": "/findduo/static/js/2.1076647d.chunk.js",
+    "static/js/2.1076647d.chunk.js.map": "/findduo/static/js/2.1076647d.chunk.js.map",
+    "index.html": "/findduo/index.html",
+    "precache-manifest.bc1f33433e439d8453aa7f5dcb9ca8e4.js": "/findduo/precache-manifest.bc1f33433e439d8453aa7f5dcb9ca8e4.js",
+    "service-worker.js": "/findduo/service-worker.js",
+    "static/css/main.fddd73bc.chunk.css.map": "/findduo/static/css/main.fddd73bc.chunk.css.map",
+    "static/js/2.1076647d.chunk.js.LICENSE": "/findduo/static/js/2.1076647d.chunk.js.LICENSE",
+    "static/media/Like.png": "/findduo/static/media/Like.6f6e1bdf.png",
+    "static/media/LogoMain.png": "/findduo/static/media/LogoMain.d373962a.png",
+    "static/media/Nlike.png": "/findduo/static/media/Nlike.a0740518.png",
+    "static/media/brand.png": "/findduo/static/media/brand.339ab785.png",
+    "static/media/logo.png": "/findduo/static/media/logo.753a5d64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f84d0e.js",
+    "static/js/2.1076647d.chunk.js",
+    "static/css/main.fddd73bc.chunk.css",
+    "static/js/main.cb7c70a0.chunk.js"
+  ]
+}
