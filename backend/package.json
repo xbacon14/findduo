@@ -5,7 +5,6 @@
   "author": "ItaloGolin",
   "license": "MIT",
   "scripts": {
-    "start": "node src/server.js",
     "lol": "nodemon src/server.js"
   },
   "dependencies": {
